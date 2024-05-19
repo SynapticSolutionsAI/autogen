@@ -1,0 +1,8 @@
+[
+
+    {
+        "model": "llama3-70b-8192",
+        "base_url": "https://api.groq.com/openai/v1",
+        "api_key": "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"
+    }
+]
